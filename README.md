@@ -1,4 +1,7 @@
 # Um-Reader
+
+PLEASE USE RAW FORMAT IN ORDER TO UNDERSTAND CORRECTLY
+
 Basic UF (UmFormat) Reader that allows to get parameters and descriptions from .txt files with using a simple format.
 
 Here are formats:
