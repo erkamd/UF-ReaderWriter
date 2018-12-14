@@ -1,6 +1,6 @@
 # Um-Reader
 
-PLEASE USE RAW FORMAT IN ORDER TO UNDERSTAND CORRECTLY (There is a raw button right up from here.)
+PLEASE USE RAW FORMAT IN ORDER TO UNDERSTAND CORRECTLY (Click here: https://raw.githubusercontent.com/erkamd/Um-Reader/master/README.md)
 
 Basic UF (UmFormat) Reader that allows to get parameters and descriptions from .txt files with using a simple format.
 
