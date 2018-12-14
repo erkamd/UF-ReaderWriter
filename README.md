@@ -1,5 +1,5 @@
 # Um-Reader
-Basic UF (UmFormat) Reader/Writer that allows to get parameters and descriptions from .txt files with using a simple format.
+Basic UF (UmFormat) Reader that allows to get parameters and descriptions from .txt files with using a simple format.
 
 Here are formats:
 Description use: 
